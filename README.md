@@ -1,4 +1,4 @@
-<h1> CookIT - CookIt - Your Recipe Organizer </h1>
+<h1> CookIT - CookIt - Your Recipe Organizer - <bold>STANDBY</bold> </h1>
 <div>
   <h2>1. Introduction</h2>
   <p></p>
